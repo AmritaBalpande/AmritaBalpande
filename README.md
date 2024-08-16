@@ -1,12 +1,12 @@
 ![logo](https://github.com/AmritaBalpande/AmritaBalpande/blob/main/CNN-Banner.png)
 <h1 align="center">Hi 👋, I'm Amrita Balpande</h1>
-<h3 align="center">A passionate Backup and Storage Administrator</h3>
+<h3 align="center">A passionate Associate Data Scientist</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmritaBalpande&label=Profile%20views&color=0e75b6&style=flat" alt="AmritaBalpande" /> </p>
 
-- 🌱 I’m currently learning *Transformers, GANs*
+- 🌱 I’m currently learning *GenAI, GANs*
 
 - 💬 Ask me about *AI Trends*
 
